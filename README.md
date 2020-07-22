@@ -16,6 +16,6 @@
 <a href="https://dev.to/jimytc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jimytc" height="20" width="20" /></a>
 <a href="https://twitter.com/jimytc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jimytc" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/yentingchen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yentingchen" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/jimytc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="jimytc" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/2728942/jimytc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="jimytc" height="20" width="20" /></a>
 <a href="https://medium.com/@jimytc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jimytc" height="20" width="20" /></a>
 </p>
