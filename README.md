@@ -10,7 +10,20 @@
 
 - ⚡ Fun fact **Have coffee brewing ritual every morning**
 
-<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jimytc&show_icons=true" alt="jimytc" /> </p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/jimytc/jimytc/master/images/amazonaws.svg" alt="aws" width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/jimytc/jimytc/master/images/android.svg" alt="android" width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/jimytc/jimytc/master/images/docker.svg" alt="docker" width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/jimytc/jimytc/master/images/ruby.svg" alt="ruby" width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/jimytc/jimytc/master/images/rails.svg" alt="rails" width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/jimytc/jimytc/master/images/java.svg" alt="java" width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/jimytc/jimytc/master/images/graphql.svg" alt="graphql" width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/jimytc/jimytc/master/images/postgresql.svg" alt="postgresql" width="20" height="20"/
+  <img src="https://raw.githubusercontent.com/jimytc/jimytc/master/images/redit.svg" alt="redis" width="20" height="20"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jimytc&show_icons=true" alt="jimytc" />
+</p>
 
 <p align="center">
 <a href="https://dev.to/jimytc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jimytc" height="20" width="20" /></a>
