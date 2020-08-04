@@ -9,15 +9,13 @@
 <a href="https://medium.com/@jimytc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jimytc" height="20" width="20" /></a>
 </p>
 
-- 📝 I sometimes share articles on [https://jimytc.com](https://jimytc.com)
+- 📝 I write articles on [https://jimytc.com](https://jimytc.com).
 
 - 💬 Ask me about **Ruby, Ruby on Rails, Java, or Object-Oriented Programming in general.**
 
-- 📫 How to reach me **jim@hey.com**
+- 📫 Reach me through mail -> **jim@hey.com**, or find me on Twitter: [@jimytc](https://twitter.com/jimytc)
 
 - ⚡ Fun fact **Have coffee brewing ritual every morning**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimytc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/jimytc/jimytc/master/images/amazonaws.svg" alt="aws" width="20" height="20"/>
@@ -30,3 +28,5 @@
   <img src="https://raw.githubusercontent.com/jimytc/jimytc/master/images/postgresql.svg" alt="postgresql" width="20" height="20"/
   <img src="https://raw.githubusercontent.com/jimytc/jimytc/master/images/redit.svg" alt="redis" width="20" height="20"/>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimytc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
