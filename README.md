@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Ruby, Ruby on Rails, Java, or Object-Oriented Programming in general.**
 
-- 📫 Reach me through mail -> **jim@hey.com**, or find me on Twitter: [@jimytc](https://twitter.com/jimytc)
+- 📫 Find me on Twitter: [@jimytc](https://twitter.com/jimytc)
 
 - ⚡ Fun fact **Have coffee brewing ritual every morning**
 
