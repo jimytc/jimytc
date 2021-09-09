@@ -11,13 +11,11 @@
 
 - 📝 I write articles on [https://jimytc.com](https://jimytc.com).
 
-- 💬 Ask me about **Ruby, Ruby on Rails, Java, or Object-Oriented Programming in general.**
+- ⚒️ Equiped with **Ruby, Ruby on Rails, Java, or Object-Oriented Programming in general.**, sometimes **Elixir, Typescript**
 
 - 📫 Find me on Twitter: [@jimytc](https://twitter.com/jimytc)
 
-- ⚡ Fun fact **Have coffee brewing ritual every morning**
-
-<p align="left">
+<!-- <p align="left">
   <img src="https://raw.githubusercontent.com/jimytc/jimytc/master/images/amazonaws.svg" alt="aws" width="20" height="20"/>
   <img src="https://raw.githubusercontent.com/jimytc/jimytc/master/images/android.svg" alt="android" width="20" height="20"/>
   <img src="https://raw.githubusercontent.com/jimytc/jimytc/master/images/docker.svg" alt="docker" width="20" height="20"/>
@@ -27,6 +25,6 @@
   <img src="https://raw.githubusercontent.com/jimytc/jimytc/master/images/graphql.svg" alt="graphql" width="20" height="20"/>
   <img src="https://raw.githubusercontent.com/jimytc/jimytc/master/images/postgresql.svg" alt="postgresql" width="20" height="20"/
   <img src="https://raw.githubusercontent.com/jimytc/jimytc/master/images/redit.svg" alt="redis" width="20" height="20"/>
-</p>
+</p> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimytc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
